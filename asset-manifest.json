@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/electronic-shop/static/css/main.e6c13ad2.css",
+    "main.js": "/electronic-shop/static/js/main.c9ff666b.js",
+    "static/js/787.ae06ca41.chunk.js": "/electronic-shop/static/js/787.ae06ca41.chunk.js",
+    "index.html": "/electronic-shop/index.html",
+    "main.e6c13ad2.css.map": "/electronic-shop/static/css/main.e6c13ad2.css.map",
+    "main.c9ff666b.js.map": "/electronic-shop/static/js/main.c9ff666b.js.map",
+    "787.ae06ca41.chunk.js.map": "/electronic-shop/static/js/787.ae06ca41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c9ff666b.js"
+  ]
+}
