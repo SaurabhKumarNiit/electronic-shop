@@ -68,8 +68,8 @@ const App = () => {
   return (
     <Wrapper>
     <Navbar />
-      {/* <Filter filters={filters} onFilterChange={handleFilterChange} />
-      <Sorting sortType={sortType} onSortChange={handleSortChange} /> */}
+      {/* <Filter filters={filters} onFilterChange={handleFilterChange} /> */}
+      {/* <Sorting sortType={sortType} onSortChange={handleSortChange} /> */}
       <ProductList products={currentProducts} filters={filters} sortType={sortType} />
       <Pagination
         productsPerPage={productsPerPage}
